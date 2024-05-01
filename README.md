@@ -1,1 +1,1 @@
-Lnagchain chat / simple chatBOT with the data from various data socurces 
+Langchain chat / simple chatBOT with the data from various data socurces 
